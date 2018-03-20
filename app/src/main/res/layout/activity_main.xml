@@ -16,6 +16,29 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Come join us at the beach!" />
+        android:textColor="@android:color/black"
+        android:textSize="36dp"
+        android:textAlignment="center"
+        android:text="Come join us at the beach =)" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="36dp"
+        android:layout_centerVertical="true"
+        android:textAlignment="center"
+        android:textColor="@android:color/black"
+        android:paddingTop="125dp"
+        android:text="It's great over here!"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="36dp"
+        android:layout_alignParentBottom="true"
+        android:textAlignment="center"
+        android:textColor="@android:color/black"
+        android:paddingBottom="8dp"
+        android:text="Lots of love, Erik"/>
 
 </RelativeLayout>
